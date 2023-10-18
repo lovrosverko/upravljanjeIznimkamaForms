@@ -1,0 +1,10 @@
+C:\Users\Lovro\source\repos\upravljanjeIznimkamaForms\upravljanjeIznimkamaForms\bin\Debug\upravljanjeIznimkamaForms.exe.config
+C:\Users\Lovro\source\repos\upravljanjeIznimkamaForms\upravljanjeIznimkamaForms\bin\Debug\upravljanjeIznimkamaForms.exe
+C:\Users\Lovro\source\repos\upravljanjeIznimkamaForms\upravljanjeIznimkamaForms\bin\Debug\upravljanjeIznimkamaForms.pdb
+C:\Users\Lovro\source\repos\upravljanjeIznimkamaForms\upravljanjeIznimkamaForms\obj\Debug\upravljanjeIznimkamaForms.csproj.AssemblyReference.cache
+C:\Users\Lovro\source\repos\upravljanjeIznimkamaForms\upravljanjeIznimkamaForms\obj\Debug\upravljanjeIznimkamaForms.Form1.resources
+C:\Users\Lovro\source\repos\upravljanjeIznimkamaForms\upravljanjeIznimkamaForms\obj\Debug\upravljanjeIznimkamaForms.Properties.Resources.resources
+C:\Users\Lovro\source\repos\upravljanjeIznimkamaForms\upravljanjeIznimkamaForms\obj\Debug\upravljanjeIznimkamaForms.csproj.GenerateResource.cache
+C:\Users\Lovro\source\repos\upravljanjeIznimkamaForms\upravljanjeIznimkamaForms\obj\Debug\upravljanjeIznimkamaForms.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\source\repos\upravljanjeIznimkamaForms\upravljanjeIznimkamaForms\obj\Debug\upravljanjeIznimkamaForms.exe
+C:\Users\Lovro\source\repos\upravljanjeIznimkamaForms\upravljanjeIznimkamaForms\obj\Debug\upravljanjeIznimkamaForms.pdb
